@@ -8,7 +8,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # ========== Telegram Setup ==========
-YOUR_BOT_TOKEN = "8014670303:AAEhi9_ajm8rZvu_LKUmBTMkIZNYnkxypok"
+YOUR_BOT_TOKEN = "8128803742:AAELtkcGRhjvdSsE7JHqrgm6vHbahwuCfpg"
 YOUR_CHAT_ID = "7742052478"
 last_milestone_sent = [-1]  # So it always sends on first valid milestone
 
@@ -47,7 +47,7 @@ iv_hex  = "4633743772637233475174654c454d70"
 # ========== Headers ==========
 headers = {
     "App-Locale": "en",
-    "Authorization": "Sub4Sub 192219dbb53da290fb361a6064a522cc6fef8f2c",
+    "Authorization": "Sub4Sub c9ee031d85e08469fa4c974e7fe3dcdb5477fe7a",
     "Package-Name": "com.tubeforces.get_sub",
     "Apk-Version": "129",
     "Time-Zone": "Asia_Kolkata",
